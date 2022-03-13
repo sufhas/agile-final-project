@@ -9,7 +9,7 @@ assignees: ''
 
 As a
 I need
-So than
+So that
 
 Assumptions and Details:
 -
